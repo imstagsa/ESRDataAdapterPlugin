@@ -1,5 +1,5 @@
 **Elasticsearch REST DataAdapter**
-This is buildin project Elasticsearch REST DataAdapter. The source you could fine on https://github.com/imstagsa/ESRDataAdapter
+This is buildin project Elasticsearch REST DataAdapter. The source you could find on https://github.com/imstagsa/ESRDataAdapter
 
 **How to apply plugin**
 Shut down your Jaspersoft Studio instance.
